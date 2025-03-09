@@ -1,1 +1,1 @@
-# Hurst-Advance-EA
+# Hurst-Advance-Suite-EA
